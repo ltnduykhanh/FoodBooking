@@ -1,0 +1,13 @@
+{
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "printWidth": 100,
+  "semi": false,
+  "jsxSingleQuote": true,
+  "singleAttributePerLine": true,
+  "singleQuote": true,
+  "bracketSameLine": true,
+  "importOrder": ["^[./]"],
+  "importOrderSortSpecifiers": true,
+  "experimentalTernaries": true
+}
